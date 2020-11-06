@@ -1,5 +1,6 @@
 /* first slide : which are the top 10 most popular children's movies according to the rental data */
 /* The query lists the movie names, the category it is classified in, and the number of times it has been rented out */
+
 SELECT
   f.title,
   c.name,
