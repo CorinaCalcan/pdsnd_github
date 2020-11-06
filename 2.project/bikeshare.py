@@ -6,7 +6,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
-  #This is the 'new' refactoring of the cod- just kidding I like the code how it is
+  # The refactoring  of the code was not working therefore it was deleted
 
 def get_filters():
   """
