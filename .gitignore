@@ -1,6 +1,7 @@
 # exlude directories
 .git/
 
+
 # exclude files
 2.project/*.csv
 
